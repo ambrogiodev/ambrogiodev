@@ -1,4 +1,4 @@
-**:DA_Development:DA Development**
+**DA Development**
 
 Hai bisogno di un team affidabile che trasformi idee in soluzioni concrete?
 Con **DA Development** offriamo servizi avanzati per server Discord, progetti FiveM, software su misura e supporto IT completo, garantendo innovazione, professionalità e attenzione ai dettagli.
